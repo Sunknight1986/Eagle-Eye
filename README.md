@@ -25,7 +25,13 @@ Now it should show the lines connection of high-rise buildings but no geometries
 
 **3**, Now we have almost done, the rest is to adjust the parameters to make the output to your satisfication.
 ## Examples of output
+![Gaza City](https://user-images.githubusercontent.com/88772212/130319089-3acf6249-dbb8-48d0-b305-e00a4f6b6a7d.png)
+- *Pharmacies and hospitals in Gaza city, with tall buildings higher than 10m.*
 
+
+
+![Manila](https://user-images.githubusercontent.com/88772212/130318835-6afb4683-319c-4f27-9c4e-e3462bc8b699.png)
+- *Pharmacies and hospitals in Manila, with tall buildings higher than 20m.*
 
 ## Feedback and Support
 It is really welcomed to [leave your feedback and comments](https://github.com/Sunknight1986/Eagle-Eye/discussions) after using Eagle Eye, I appreciate and look forward to your advice!
