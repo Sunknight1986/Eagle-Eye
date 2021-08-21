@@ -10,7 +10,7 @@ Eagle Eye is a mapping tool to let users identify the distribution of 1) **Tall 
 ## Installation
 For now the Eagle Eye is still A GH definition, you don't have to install but just run it through Grasshopper.
 ## Overview of the Definition
-![overview of the definition](https://user-images.githubusercontent.com/88772212/130314660-cba453e5-da37-4c73-851d-7c779da1dae0.png)
+![Overview of the definition](https://user-images.githubusercontent.com/88772212/130322835-88167083-091c-4917-8caf-e9b41a941667.png)
 *light green groups: parameter parts that can be adjusted by the user; gray lilac groups: please do not change it; blue group: an optional part for users to adjust.*
 ## Usage
 *Before the text usage instruction, here is the video tutorial link https://www.notion.so/Video-Tutorial-of-Eagle-Eye-389c9f69a0924bb1a3167b97ea745505*
