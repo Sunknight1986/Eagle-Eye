@@ -13,7 +13,7 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 ![Overview of the definition](https://user-images.githubusercontent.com/88772212/130322835-88167083-091c-4917-8caf-e9b41a941667.png)
 *light green groups: parameter parts that can be adjusted by the user; gray lilac groups: please do not change it; blue group: an optional part for users to adjust.*
 ## Usage
-*Before the text usage instruction, here is the video tutorial link https://www.notion.so/Video-Tutorial-of-Eagle-Eye-389c9f69a0924bb1a3167b97ea745505*
+*Before the text usage instruction, here is the video tutorial link Youtube https://www.youtube.com/watch?v=HQJEJkIh9ek; BiliBili https://www.bilibili.com/video/BV1G44y1872N/*
 
 **1**, Set your API map file from OpenStreetMap here:
 ![set the map file](https://user-images.githubusercontent.com/88772212/130316109-0482bb8c-5273-4f17-84a3-9e74f48e8576.png)
