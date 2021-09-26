@@ -15,12 +15,18 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 **1**, Set your API map file from OpenStreetMap here:
 ![image](https://user-images.githubusercontent.com/88772212/134807231-cae270ae-4287-44a9-a980-300280e2d387.png)
 
-**note:** in some cases, the *Extract Buildings* will remain orange after you input your map. If that happens, please reconnect the *file path* and *Extract Buildings*.
-**2**, Set a rectangle in this component to cover the region you want to see the distribution of these two facilities:
-![set the boundary](https://user-images.githubusercontent.com/88772212/130316429-cbba50ee-8416-4fe3-abc4-26971d833792.png)
+**Note:** in some cases, the *Extract Buildings* will remain orange after you input your map. If that happens, please reconnect the *file path* and *Extract Buildings*.
+
+**2**, Set a rectangle for your legend bar:
+![image](https://user-images.githubusercontent.com/88772212/134807410-8745fc31-a2ed-4f9e-b762-8968cfac18c1.png)
 **Caution: this step will cost a relatively long time, depending on your map scale and computer.**
 
-**3**, Now we have almost done, the rest is to adjust the parameters to make the output to your satisfication.
+**3**, this part is to show the bubbles/contour/boundareis of the three kinds of buildings, recommend to use these in Top View.
+![image](https://user-images.githubusercontent.com/88772212/134807487-b25feb42-9abf-41c1-b2d4-811cf12ef569.png)
+
+**Note:** the number of Low-rise buildings is the largest in many cities, so the caulculation about this part always takes a long time. I choose to leave it unconnect, and you can reconnect it if you need. Otherwise the open time of my tool will be too long!
+![image](https://user-images.githubusercontent.com/88772212/134807584-70437c98-4821-42bf-afdf-871a59256bbe.png)
+
 ## Examples of output
 ![Gaza City](https://user-images.githubusercontent.com/88772212/130319089-3acf6249-dbb8-48d0-b305-e00a4f6b6a7d.png)
 - *Pharmacies and hospitals in Gaza city, with tall buildings higher than 10m.*
