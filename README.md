@@ -10,7 +10,7 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 
 *lilac groups: parameter parts that can be adjusted by the user; gray groups: please do not change it in most cases*
 ## Usage
-*Before the text usage instruction, here is the video tutorial link(has updated to v0.2) Youtube https://www.youtube.com/watch?v=HQJEJkIh9ek; BiliBili https://www.bilibili.com/video/BV1G44y1872N/*
+*Before the text usage instruction, here is the video tutorial link(has updated to v0.2)  BiliBili https://www.bilibili.com/video/BV1g34y1D7k7/*
 
 **1**, Set your API map file from OpenStreetMap here:
 ![image](https://user-images.githubusercontent.com/88772212/134807231-cae270ae-4287-44a9-a980-300280e2d387.png)
