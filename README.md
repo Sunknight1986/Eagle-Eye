@@ -4,7 +4,10 @@
 Eagle Eye is a mapping tool to let users identify the distribution of buildings with various height: Low-rise, High-rise, and Skyscrapers in a particualr city, and how they change overtime.
 ## Installation
 For now the Eagle Eye is still A GH definition, you don't have to install but just run it through Grasshopper.
-**NOTICE:** Eagle Eye v0.2 is based on the latest plugin *Caribou*. If you are using older version, please update it otherwise Eagle Eye may not work.
+
+**NOTICE: Eagle Eye v0.2 is based on the latest plugin *Caribou*. If you are using older version, please update it otherwise Eagle Eye may not work.**
+
+**Update on 27th Sep, 2021: release the v0.2.1 for users installed *Caribou* from PackageManager, remove the catagory 'Buildings without height data'.**
 ## Overview of the Definition
 ![image](https://user-images.githubusercontent.com/88772212/134807127-92d6797b-71ca-4613-8e1b-0db7ec8c8de8.png)
 
@@ -34,6 +37,10 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 
 **5**, detailed introduction please see the text in my definiton and in my video. (has updated to v0.2)
 ## Examples of output
+
+If you want to have the background canvas like the examples, please set your Rhino display mode like this:
+![image](https://user-images.githubusercontent.com/88772212/134829353-feda62b4-89c6-422f-abe3-94f2fd53ca38.png)
+
 ![image](https://user-images.githubusercontent.com/88772212/134807742-a9ba21e2-ca89-4b02-813f-e2ada288f937.png)
 ![image](https://user-images.githubusercontent.com/88772212/134807841-50b8828b-9140-45c1-8028-bcef6fc31457.png)
 
