@@ -38,7 +38,7 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 **5**, detailed introduction please see the text in my definiton and in my video. (has updated to v0.2)
 ## Examples of output
 
-**Update: in the new version 0.2.3, users can define their background color through a group of definition in Grasshopper.**
+**Update: in the new version 0.2.3, users can define their background color through a group of definitions in Grasshopper.**
 ![image](https://user-images.githubusercontent.com/88772212/137106816-c98aaf05-9ea3-4c6a-ac43-c4c5ae7990b9.png)
 
 If you want to have the background canvas like the examples, please set your Rhino display mode like this:
