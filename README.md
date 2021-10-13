@@ -1,7 +1,12 @@
 # Eagle Eye
 ![icon-eagle-eye](https://user-images.githubusercontent.com/88772212/130043618-0f3d9ee4-57ff-43b3-9ee6-c0e91202c806.png)
+
 ## Overview 
 Eagle Eye is a mapping tool to let users identify the distribution of buildings with various height: Low-rise, High-rise, and Skyscrapers in a particualr city, and how they change overtime.
+![image](https://user-images.githubusercontent.com/88772212/134807742-a9ba21e2-ca89-4b02-813f-e2ada288f937.png)
+![image](https://user-images.githubusercontent.com/88772212/134807841-50b8828b-9140-45c1-8028-bcef6fc31457.png)
+
+- *Beijing, 80 years later (The dark purple part is the buildings without height information in OpenStreetMap. If you want to have this part in your final map, pls using the latest Caribou version.)* 
 ## Installation
 For now the Eagle Eye is still A GH definition, you don't have to install but just run it through Grasshopper.
 
@@ -33,13 +38,13 @@ For now the Eagle Eye is still A GH definition, you don't have to install but ju
 **5**, detailed introduction please see the text in my definiton and in my video. (has updated to v0.2)
 ## Examples of output
 
+**Update: in the new version 0.2.3, users can define their background color through a group of definition in Grasshopper.**
+![image](https://user-images.githubusercontent.com/88772212/137106816-c98aaf05-9ea3-4c6a-ac43-c4c5ae7990b9.png)
+
 If you want to have the background canvas like the examples, please set your Rhino display mode like this:
 ![image](https://user-images.githubusercontent.com/88772212/134829353-feda62b4-89c6-422f-abe3-94f2fd53ca38.png)
 
-![image](https://user-images.githubusercontent.com/88772212/134807742-a9ba21e2-ca89-4b02-813f-e2ada288f937.png)
-![image](https://user-images.githubusercontent.com/88772212/134807841-50b8828b-9140-45c1-8028-bcef6fc31457.png)
 
-- *Beijing, 80 years later*
 
 
 
